@@ -1,3 +1,5 @@
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20-%20YasinV2ray
 trojan://MiTiVPN@151.101.1.194:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20-%20YasinV2ray
 socks://TWl0aVZwbjphMWIyYzNkNA@8.8.8.8:8080#YasinV2ray%20-%20%F0%9F%93%8AUnlimited%E2%8F%B37D%2023H
+vless://9b68c32d-953c-423f-a2e8-6447cc77cbf8@46.8.236.129:26140?security=reality&encryption=none&pbk=Y8cdqmsCNqujpWKxRPfXQLB1CwJMhQRSKHaKOzBMFAY&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c73dd5d128e6bd3d#%F0%9F%87%AB%F0%9F%87%AE%20Finalnd%20-%20YasinV2ray
+socks://TWl0aVZwbjphMWIyYzNkNA@1.1.1.1:8080#%E2%99%BB%EF%B8%8F%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF
