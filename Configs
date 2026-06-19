@@ -5,4 +5,3 @@ trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F
 socks://TWl0aVZwbjphMWIyYzNkNA@1.1.1.1:8080#%E2%9A%A0%EF%B8%8F%20%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%20%D9%82%D8%B7%D8%B9%DB%8C%20%D8%AF%D8%B1%20%D8%B2%D9%85%D8%A7%D9%86%20%D9%82%D8%B7%D8%B9%DB%8C%20%D9%88%D8%AC%D9%88%D8%AF%20%D8%AF%D8%A7%D8%B1%D8%AF
 trojan://MiTiVPN@104.16.72.70:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%C2%B2%20-%20YasinV2ray
 trojan://MiTiVPN@199.181.197.176:443?path=%2Fcdn%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%C2%B3%20-%20YasinV2ray
-vless://38b4b113-ae06-46ea-bad3-78f76e90998e@zx.hostxyz.ir:53925?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20-%20YasinV2ray
