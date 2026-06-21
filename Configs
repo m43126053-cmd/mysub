@@ -1,8 +1,8 @@
-vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF%20%C2%B2
-trojan://MITIVPN@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=www.pagess.ir&fp=chrome&type=ws&allowInsecure=1&sni=pagess.ir#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%C2%B2
-trojan://MITIVPN@104.16.72.70:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=www.pagess.ir&fp=chrome&type=ws&allowInsecure=1&sni=pagess.ir#%5B%F0%9F%87%AC%F0%9F%87%A7%5D%20UK%20-%20YasinV2ray
-trojan://MITIVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20Netherland%20-%20YasinV2ray
+
+trojan://MITIVPN@104.16.72.70:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=www.pagess.ir&fp=chrome&type=ws&allowInsecure=1&sni=pagess.ir#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%C2%B2
 trojan://MITIVPN@151.101.69.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=h2&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20German%20-%20YasinV2ray
-socks://TWl0aVZwbjphMWIyYzNkNA@1.1.1.1:8080#%E2%9A%A0%EF%B8%8F%20%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%20%D9%82%D8%B7%D8%B9%DB%8C%20%D8%AF%D8%B1%20%D8%B2%D9%85%D8%A7%D9%86%20%D9%82%D8%B7%D8%B9%DB%8C%20%D9%88%D8%AC%D9%88%D8%AF%20%D8%AF%D8%A7%D8%B1%D8%AF
+trojan://MITIVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20Netherland%20-%20YasinV2ray
+trojan://MITIVPN@104.16.72.70:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=www.pagess.ir&fp=chrome&type=ws&allowInsecure=1&sni=pagess.ir#%5B%F0%9F%87%AC%F0%9F%87%A7%5D%20UK%20-%20YasinV2ray
 socks://TWl0aVZwbjphMWIyYzNkNA@1.1.1.1:8080#%E2%99%BB%EF%B8%8F%20%D9%84%DB%8C%D9%86%DA%A9%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF
+socks://TWl0aVZwbjphMWIyYzNkNA@1.1.1.1:8080#%E2%9A%A0%EF%B8%8F%20%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%20%D9%82%D8%B7%D8%B9%DB%8C%20%D8%AF%D8%B1%20%D8%B2%D9%85%D8%A7%D9%86%20%D9%82%D8%B7%D8%B9%DB%8C%20%D9%88%D8%AC%D9%88%D8%AF%20%D8%AF%D8%A7%D8%B1%D8%AF
 socks://TWl0aVZwbjphMWIyYzNkNA@8.8.8.8:8080#YasinV2ray%20-%20%F0%9F%93%8AUnlimited%E2%8F%B37D%2023H
